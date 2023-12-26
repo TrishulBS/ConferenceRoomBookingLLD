@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be6c4d77-1aac-4100-9d4a-39184fce5c9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/ConferenceRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/trishul/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="be6c4d77-1aac-4100-9d4a-39184fce5c9a" name="Changes" comment="Low level design of Conference Room Booking" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +63,25 @@
       <option name="presentableId" value="Default" />
       <updated>1703547497583</updated>
     </task>
+    <task id="LOCAL-00001" summary="Low level design of Conference Room Booking">
+      <created>1703561312839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703561312839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Low level design of Conference Room Booking">
+      <created>1703561331249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703561331249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Low level design of Conference Room Booking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Low level design of Conference Room Booking" />
   </component>
 </project>
